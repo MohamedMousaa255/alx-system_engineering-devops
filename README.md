@@ -1,1 +1,2 @@
- a new repo for shell basics 
+#!/bin/bash
+a new repo for shell basics 
